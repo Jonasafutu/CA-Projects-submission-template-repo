@@ -16,5 +16,4 @@
 ...
 
 ## Author
-...
-
+Jonas Afutu
