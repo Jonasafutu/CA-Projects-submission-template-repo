@@ -1,5 +1,5 @@
 # CA-Projects-template-submission-repo
-*short project description*
+Identifying trends in the Indian Startup market
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
