@@ -4,7 +4,7 @@ Identifying trends in the Indian Startup market
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP1 | Indian Strtup Ecosystem |  [Best article of the world](/) | https://app.powerbi.com/groups/me/reports/87c65e32-aa9f-418a-af04-af3e9d6e7d1e |
+| LP1 | Indian Strtup Ecosystem |  [https://medium.com/@afutunikoi/the-indian-startup-ecosystem-a-data-visualization-and-analysis-of-the-funding-trends-from-the-1232db14a2bd](/) | https://app.powerbi.com/groups/me/reports/87c65e32-aa9f-418a-af04-af3e9d6e7d1e |
 
 ## Project Description
 A start-up ecosystem company, targeting the Indian market has expressed interest in the Indian market. This analysis will help them make informed and intelligent business decisions, and to leverage on the funding given. Based on the available data I.e., 2018 – 2021
