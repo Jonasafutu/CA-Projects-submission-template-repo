@@ -4,7 +4,7 @@ Identifying trends in the Indian Startup market
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP1 | Indian Startup Ecosystem |  [https://medium.com/@afutunikoi/the-indian-startup-ecosystem-a-data-visualization-and-analysis-of-the-funding-trends-from-the-1232db14a2bd](/) | https://app.powerbi.com/groups/me/reports/87c65e32-aa9f-418a-af04-af3e9d6e7d1e |
+| LP2 | Regression Project - Sales Forecast |  [https://medium.com/@afutunikoi/store-sales-time-series-forecasting-and-analysis-regression-project-9281783ed2d2](/) | https://github.com/Jonasafutu/Career_Accelerator_LP2-Regression |
 
 ## Project Description
 A start-up ecosystem company, targeting the Indian market has expressed interest in the Indian market. This analysis will help them make informed and intelligent business decisions, and to leverage on the funding given. Based on the available data I.e., 2018 – 2021
