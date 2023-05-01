@@ -7,15 +7,17 @@ Identifying trends in the Indian Startup market
 | LP2 | Regression Project - Sales Forecast |  [https://medium.com/@afutunikoi/store-sales-time-series-forecasting-and-analysis-regression-project-9281783ed2d2](/) | https://github.com/Jonasafutu/Career_Accelerator_LP2-Regression |
 
 ## Project Description
-A start-up ecosystem company, targeting the Indian market has expressed interest in the Indian market. This analysis will help them make informed and intelligent business decisions, and to leverage on the funding given. Based on the available data I.e., 2018 – 2021
+This is a time series forecasting problem. In this project, you'll predict store sales on data from Corporation Favorita, a large Ecuadorian-based grocery retailer.
 
-To effect this analysis, we constructed a hypothesis and some questions to gain more insight on our data and eventally to help us test our hypiothesis
+Specifically, you are to build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
+
+The training data includes dates, store, and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models
 
 ## Setup
-The Repo used contains the power bi file, the jupyter notebook and the all the datasets used for this project. The idea was to tak the visualizations from the notebook and display them in Power BI using the python scitping feature within power bi
+The Repo used contains the jupyter notebook for the project and the all the datasets used for this project.
 
 ## App Execution
-The attached link to the PowerBI dashboard that will visualizing our findings is found in the summary table.
+
 
 ## Author
 #### Jonas Afutu
@@ -24,3 +26,4 @@ The attached link to the PowerBI dashboard that will visualizing our findings is
 #### Vincent Kipkorir 
 #### RIchard Gbamara 
 #### Eric Mugisha
+#### David Mantey
