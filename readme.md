@@ -1,5 +1,5 @@
 # CA-Projects-template-submission-repo
-Identifying trends in the Indian Startup market
+Regression Project (Store Sales -- Time Series Forecasting)
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
